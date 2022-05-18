@@ -7,11 +7,11 @@
 
 [program1.c](https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%201.c)
 
-[program.2](https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%202.c)
+[program2.c](https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%202.c)
 
-[program.com](https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%203.c)
+[program 3.c](https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%203.c)
 
-readme.com](https://github.com/rignyabandaru/19ECB132/blob/main/README.md.c)
+[readme.c](https://github.com/rignyabandaru/19ECB132/blob/main/README.md.c)
 
 (https://github.com/rignyabandaru/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20PROGRAM.c)
 (https://github.com/rignyabandaru/19ECB132/blob/main/binary.c)
