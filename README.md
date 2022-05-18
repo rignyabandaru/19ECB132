@@ -9,7 +9,7 @@
 
 [program.2](https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%202.c)
 
-(https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%203.c)
+[program.com](https://github.com/rignyabandaru/19ECB132/blob/main/PROGRAM%203.c)
 (https://github.com/rignyabandaru/19ECB132/blob/main/README.md.c)
 (https://github.com/rignyabandaru/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20PROGRAM.c)
 (https://github.com/rignyabandaru/19ECB132/blob/main/binary.c)
