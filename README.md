@@ -9,3 +9,4 @@ https://github.com/rignyabandaru/19ECB132/blob/main/README.md
 https://github.com/rignyabandaru/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20PROGRAM.c
 https://github.com/rignyabandaru/19ECB132/blob/main/binary
 https://github.com/rignyabandaru/19ECB132/blob/main/relationaloprs.c
+https://github.com/rignyabandaru/19ECB132/blob/main/sum.c
