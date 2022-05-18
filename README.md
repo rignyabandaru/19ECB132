@@ -13,7 +13,7 @@
 
 [readme.c](https://github.com/rignyabandaru/19ECB132/blob/main/README.md.c)
 
-(https://github.com/rignyabandaru/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20PROGRAM.c)
+[(https://github.com/rignyabandaru/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20PROGRAM.c)
 (https://github.com/rignyabandaru/19ECB132/blob/main/binary.c)
 [RELATIONALORPS.c](https://github.com/rignyabandaru/19ECB132/blob/main/relationaloprs.c)
 [SUM.c](https://github.com/rignyabandaru/19ECB132/blob/main/sum.c)
