@@ -10,3 +10,4 @@ https://github.com/rignyabandaru/19ECB132/blob/main/SUM%20OF%20NATURAL%20NO'S%20
 https://github.com/rignyabandaru/19ECB132/blob/main/binary
 https://github.com/rignyabandaru/19ECB132/blob/main/relationaloprs.c
 https://github.com/rignyabandaru/19ECB132/blob/main/sum.c
+https://github.com/rignyabandaru/19ECB132/blob/main/LINEARDATASTRUCTURES
