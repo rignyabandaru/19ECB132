@@ -1,6 +1,7 @@
 #include<stdio.h>
-main()
+int main()
 {
 	printf("Hi,This is rignya bandaru.");
 	return 0;
 }
+//Hi,This is rignya bandaru.
