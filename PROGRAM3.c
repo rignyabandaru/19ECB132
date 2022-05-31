@@ -9,3 +9,6 @@ int main()
 	printf("Factorial of %d is: %d",num,f);
 	return 0;
 }
+/* output
+Enter a number:2
+Factorial of 2 is: 2 */
