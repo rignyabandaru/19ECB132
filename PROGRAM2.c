@@ -18,3 +18,11 @@ int main()
 	printf("mod is %d\n",mod);
 	return 0;
 }
+/* output
+Enter any two numbers1
+2
+sum is 3
+sub is -1
+mult is 2
+div is 0.500000
+mod is 1 */
