@@ -10,3 +10,7 @@ main()
 	}
 	printf("%d",s);
 }
+/* output
+enter the integer
+1
+1 */
